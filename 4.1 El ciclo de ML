@@ -1,0 +1,15 @@
+El ciclo de Machine Learning
+Muchas veces pensamos que hacer Machine Learning corresponde solamente a implementar un algoritmo de cualquiera de las librerías y con ello ya existe la solución a un problema. Pero en realidad existe todo un ciclo de trabajo donde los algoritmos de Machine Learning son solo una etapa, sin embargo, las demás etapas también son muy importantes y toman su tiempo para lograr los resultados que esperamos.
+
+Hacer Machine Learning corresponde a trabajar en un ciclo, ir trabajando varias etapas e ir iterando.
+
+Ciclo de Machine Learning:
+
+Definición del problema.
+Preparación de los datos.
+Representación de los datos.
+Modelamiento / Algoritmos de ML.
+Evaluación.
+Este no es el final del proceso, se debe iterar hasta que en alguna de las iteraciones salga la solución al problema.
+
+Producción (Fin del proceso).
